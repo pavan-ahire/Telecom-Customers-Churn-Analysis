@@ -101,7 +101,7 @@ Focusing on improving customer experience, providing flexible plans, and targeti
 ## 👤 Author  
 **Pavan Ahire**  
 Data Analyst | Power BI Enthusiast  
-📧 *[Add your email or LinkedIn profile]*  
+📧 *[www.linkedin.com/in/pavan-ahire-260940364]*  
 
 ---
 
