@@ -87,6 +87,9 @@ The dataset includes the following key features:
 - Comparison of churn behavior by internet and phone services  
 - Revenue impact of retained vs. lost customers  
 
+
+![Dashboard Preview](https://github.com/pavan-ahire/Telecom-Customers-Churn-Analysis/blob/main/telecom%20customer%20churn%20analysis/Asset/tele%20customer%20churn_page-0005.jpg)
+
 ---
 
 ## 📘 Conclusion  
